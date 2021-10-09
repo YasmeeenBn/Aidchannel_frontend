@@ -1,0 +1,27 @@
+.option-width {
+  width: 10px !important;
+  background-color: blue;
+}
+
+.input-org-form {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #495055;
+  width: 100%;
+  padding: 8px 8px;
+  border-radius: 0.4rem;
+  border: 1.9px solid #d9d9d9;
+  outline: none;
+}
+
+.logo-file {
+  color: #495055;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  cursor: pointer;
+}

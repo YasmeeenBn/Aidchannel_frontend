@@ -1,0 +1,48 @@
+.network-graph {
+  position:relative;
+  align-self: center;
+  /* margin-left: 10%;
+  margin-top: 5%; */
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(212, 0, 255, 0.007);
+  background-color: 	#E6E6FA;
+}
+.network-graph1 {
+  position: relative;
+  align-self: center;
+  /* margin-left: 10%;
+  margin-top: 5%; */
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(212, 0, 255, 0.007);
+  background-color: 	#FFF;
+}
+
+.network-graph4 {
+  position: relative;
+  align-self: center;
+  /* margin-left: 10%;
+  margin-top: 5%; */
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(212, 0, 255, 0.007);
+  background-color: 	#FFFFE0;
+}
+.vis-button {
+  background-color: aliceblue;
+  color: black;
+}
+
+div.vis-network div.vis-navigation div.vis-button.vis-zoomIn {
+  top: 10px;
+}
+
+div.vis-network div.vis-navigation div.vis-button.vis-zoomOut {
+  top: 50px;
+  right: 15px;
+}
+
+div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
+  top: 90px;
+}

@@ -1,0 +1,116 @@
+.submit__login__link {
+  background-color: #0e76a8;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  padding-top: 18px !important;
+  padding-bottom: 18px !important;
+  height: 8%;
+  border-radius: 20px;
+  border: none;
+  font-weight: bold;
+  color: white;
+}
+.submit__login__link:hover {
+  background-color: #0e76a8;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  padding-top: 18px !important;
+  padding-bottom: 18px !important;
+  height: 8%;
+  border-radius: 20px;
+  border: none;
+  font-weight: bold;
+  color: white;
+}
+
+.centralize > h1 {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.centralize > h5 {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.login-title {
+  color: #2d3748;
+  font-family: "Lato", sans-serif;
+  font-size: 41.1312px;
+  line-height: 48.0001px;
+  font-weight: bolder;
+}
+.login-sub-title {
+  color: #718096;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.login-sub-title-purple {
+  color: #0e76a8;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: bolder;
+}
+.profil__avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 30px;
+}
+
+/*----------------------------------*/
+
+div.input-block {
+  position: relative;
+}
+
+.input__link {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #495055;
+  width: 100%;
+  padding: 10px 10px;
+  border-radius: 0.4rem;
+  border: 1px solid #d9d9d9;
+  outline: none;
+}
+.forgot__password {
+  color: #0e76a8;
+  font-weight: bold;
+}
+.forgot__password:hover {
+  color: #0e76a8;
+  font-weight: bold;
+}
+div.input-block span.placeholder {
+  position: absolute;
+  margin: 10px 0;
+  padding: 0 5px;
+  font-family: Roboto, sans-serif;
+  color: #6c757d;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  top: 0;
+  left: 17px;
+  transition: all 0.2s;
+  transform-origin: 0% 0%;
+  background: none;
+  pointer-events: none;
+}
+
+div.input-block input:valid + span.placeholder,
+div.input-block input:focus + span.placeholder {
+  transform: scale(0.8) translateY(-30px);
+  background: #fff;
+}
+
+div.input-block input:focus {
+  color: #6c757d;
+  border-color: #0e76a8;
+}
+
+div.input-block input:focus + span.placeholder {
+  color: #0e76a8;
+}

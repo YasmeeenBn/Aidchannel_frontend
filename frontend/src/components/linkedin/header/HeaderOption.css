@@ -1,0 +1,54 @@
+.headerOption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  color: gray;
+  cursor: pointer;
+}
+
+.headerOption:hover {
+  color: black;
+}
+
+.headerOption__title {
+  font-size: 12px;
+  color: gray !important;
+  font-weight: 400;
+  z-index: 10;
+}
+
+.headerOption__icon {
+  object-fit: contain;
+  height: 25px !important;
+  width: 25px !important;
+}
+.headerOptionAvatar__icon{
+  object-fit: contain;
+  height: 35px !important;
+  width: 35px !important;
+}
+.toggle__button :hover {
+  background-color: white !important;
+  color: white !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.toggle__button :focus {
+  background-color: white !important;
+  color: white !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.toggle__button {
+  padding: 1px !important;
+  background-color: white !important;
+  border: none !important;
+  height: 10px !important;
+  background-color: white !important;
+  color: white !important;
+}

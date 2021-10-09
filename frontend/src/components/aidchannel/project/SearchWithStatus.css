@@ -1,0 +1,17 @@
+@media (min-width: 1000px) {
+  .w-md-50 {
+    width: 100%;
+    margin: auto;
+  }
+}
+
+@media (max-width: 1000px) {
+  .w-xs-100 {
+    width: 100%;
+    margin: auto;
+  }
+}
+
+.shadow-radio {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

@@ -1,0 +1,15 @@
+.react-datepicker__input-container {
+  width: inherit;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.label__form {
+  font-family: Roboto, sans-serif;
+  color:black;
+  font-size: 0.9rem;
+  background: none;
+  pointer-events: none;
+}

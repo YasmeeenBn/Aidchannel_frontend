@@ -1,0 +1,27 @@
+.side-img-login {
+  position: fixed;
+  top: 20vh;
+  bottom: 25vh;
+  right: 5vw;
+  height: 50vh;
+  animation: move 2.5s ease-in-out infinite;
+}
+
+.side-img-signup {
+  position: fixed;
+  top: 20vh;
+  bottom: 25vh;
+  left: 5vw;
+  height: 50vh;
+  animation: move 2.5s ease-in-out infinite;
+}
+
+@keyframes move {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(40px);
+  }
+}

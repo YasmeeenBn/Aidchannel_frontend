@@ -1,0 +1,1 @@
+// export { default as afd } from "./afd.png";

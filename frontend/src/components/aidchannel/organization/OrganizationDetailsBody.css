@@ -1,0 +1,29 @@
+.section-title {
+  color: #2d3748;
+  font-family: "Lato", sans-serif;
+  font-size: 32.3888px;
+  line-height: 40.0002px;
+  font-weight: bold;
+}
+
+.avatar-country {
+  background-color: #115293;
+  padding: 4px;
+  margin: 3px;
+  border-radius: 30px;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 11px;
+  line-height: 18.59px;
+  font-weight: normal;
+}
+
+.badge-costum {
+  background-color: #3f51b5;
+  color: white;
+  font-family: "Lato";
+  font-size: 13px;
+  line-height: 18.59px;
+  font-weight: normal;
+}
+

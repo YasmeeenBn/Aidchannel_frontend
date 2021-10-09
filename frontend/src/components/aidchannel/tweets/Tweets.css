@@ -1,0 +1,19 @@
+
+
+.btn-view-more {
+  background-color: #3f51b5;
+  color: white;
+  padding: 9px 25px;
+  border: none;
+  border-radius: 5%;
+}
+.btn-view-more:focus {
+  outline: none;
+  box-shadow: none;
+  color: white;
+}
+.btn-view-more:hover {
+  background-color: #2c387e;
+  color: white;
+  padding: 9px 25px;
+}

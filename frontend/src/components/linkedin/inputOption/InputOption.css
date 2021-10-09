@@ -1,0 +1,24 @@
+.InputOption {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  color: gray;
+  padding: 10px;
+  cursor: pointer;
+}
+
+
+
+.InputOption > h4 {
+  margin-left: 5px;
+}
+
+.icon__title{
+  font-size: 13px;
+}
+
+@media only screen and (max-width: 397px) {
+  .icon__title{
+  font-size: 10px;
+}
+}
